@@ -22,6 +22,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.InputField
     - UnityEngine.UI.Text
   sceneClasses:
     Assets/Scenes/game.unity:
@@ -43,6 +44,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
     - Class: 81
@@ -54,31 +57,33 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1484}
+      Script: {instanceID: 1502}
     - Class: 114
-      Script: {instanceID: 1994}
+      Script: {instanceID: 2012}
     - Class: 114
-      Script: {instanceID: 2174}
+      Script: {instanceID: 2192}
     - Class: 114
-      Script: {instanceID: 2292}
+      Script: {instanceID: 2310}
     - Class: 114
-      Script: {instanceID: 2396}
+      Script: {instanceID: 2414}
     - Class: 114
-      Script: {instanceID: 2560}
+      Script: {instanceID: 2580}
     - Class: 114
-      Script: {instanceID: 2758}
+      Script: {instanceID: 2628}
     - Class: 114
-      Script: {instanceID: 2782}
+      Script: {instanceID: 2778}
     - Class: 114
-      Script: {instanceID: 2844}
+      Script: {instanceID: 2802}
     - Class: 114
-      Script: {instanceID: 3336}
+      Script: {instanceID: 2864}
     - Class: 114
-      Script: {instanceID: 3410}
+      Script: {instanceID: 3356}
     - Class: 114
-      Script: {instanceID: 4010}
+      Script: {instanceID: 3430}
     - Class: 114
-      Script: {instanceID: 16124}
+      Script: {instanceID: 3692}
+    - Class: 114
+      Script: {instanceID: 4032}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -480,6 +485,12 @@ ScriptsOnlyBuild:
     className: ControlTrack
   - hash:
       serializedVersion: 2
+      Hash: 4d7c54ff267b0d22c6854f5f36976648
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MenuScript
+  - hash:
+      serializedVersion: 2
       Hash: 3165968ba45c74472d279ba04455fccb
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -568,13 +579,7 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
-  - hash:
-      serializedVersion: 2
-      Hash: 4d62a887a9d900acd13e3a9c447dba84
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: MenuScript
   platform: 19
   scenePathNames:
   - Assets/Scenes/game.unity
-  playerPath: C:/Users/S9wilson/Documents/Github/AmongUs3D/Among3D/Among3D.exe
+  playerPath: C:/Users/William69meister/Documents/GitHub/AmongUs3D/Among3D/Among3D.exe
