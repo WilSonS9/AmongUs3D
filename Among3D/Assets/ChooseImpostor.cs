@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Runtime;
+
 public class ChooseImpostor : MonoBehaviour
 {
     public System.Random ran = new System.Random();
