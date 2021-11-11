@@ -14,6 +14,7 @@ public class PlayerMovement : NetworkBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        name = "red";
         if (!IsLocalPlayer)
         {
             cameraTransform.GetComponent<AudioListener>().enabled = false;
@@ -41,7 +42,7 @@ public class PlayerMovement : NetworkBehaviour
         Vector3 move = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
         move = Vector3.ClampMagnitude(move, 15f);
         move = transform.TransformDirection(move);
-        cc.SimpleMove(move * 5f);
+        cc.SimpleMove(move * 15f);
     }
 
     void Look()
