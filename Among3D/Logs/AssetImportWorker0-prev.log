@@ -11,113 +11,147 @@ C:\Program Files\Unity\Hub\Editor\2020.3.18f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/s9idafor/Documents/AmongUs3D/Among3D
+C:/GameDev/Github Spel/AmongUs3D/Among3D
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54509
-Successfully changed project path to: C:/Users/s9idafor/Documents/AmongUs3D/Among3D
-C:/Users/s9idafor/Documents/AmongUs3D/Among3D
+55883
+Successfully changed project path to: C:/GameDev/Github Spel/AmongUs3D/Among3D
+C:/GameDev/Github Spel/AmongUs3D/Among3D
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 105.29 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 114.16 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.18f1 (a7d1c678663c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/s9idafor/Documents/AmongUs3D/Among3D/Assets
+[Subsystems] Discovering subsystems at path C:/GameDev/Github Spel/AmongUs3D/Among3D/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15dd)
     Vendor:   
     VRAM:     3905 MB
-    Driver:   25.20.14012.19004
+    Driver:   25.20.14012.22001
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56792
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007254 seconds.
+Registered in 0.011874 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 82.91 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 91.12 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  5.643 seconds
+- Completed reload, in  5.487 seconds
 Domain Reload Profiling:
-	ReloadAssembly (5644ms)
-		BeginReloadAssembly (151ms)
+	ReloadAssembly (5488ms)
+		BeginReloadAssembly (165ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (4ms)
-		EndReloadAssembly (1188ms)
-			LoadAssemblies (141ms)
-			RebuildTransferFunctionScriptingTraits (1ms)
-			SetupTypeCache (451ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1325ms)
+			LoadAssemblies (159ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (533ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (79ms)
-			SetupLoadedEditorAssemblies (426ms)
+			RebuildScriptCaches (91ms)
+			SetupLoadedEditorAssemblies (489ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (11ms)
+				InitializePlatformSupportModulesInManaged (12ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (83ms)
-				BeforeProcessingInitializeOnLoad (24ms)
-				ProcessInitializeOnLoadAttributes (227ms)
-				ProcessInitializeOnLoadMethodAttributes (78ms)
+				RefreshPlugins (91ms)
+				BeforeProcessingInitializeOnLoad (25ms)
+				ProcessInitializeOnLoadAttributes (260ms)
+				ProcessInitializeOnLoadMethodAttributes (100ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.023969 seconds.
+Registered in 0.022999 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000001D3F9B61910 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Multiplayer.MLAPI.Prototyping.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FB289060 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FE40C010 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FE421620 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FE953220 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FD23A010 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FEA94430 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FD23A010 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FE953220 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FD3BB220 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FE055A50 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Multiplayer.MLAPI.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FE421620 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FD7EA010 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FE7A3C40 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FD11C010 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Multiplayer.MLAPI.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FD2E5010 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FE7A3C40 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Multiplayer.MLAPI.Editor.CodeGen.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.798 seconds
+- Completed reload, in  3.078 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2801ms)
-		BeginReloadAssembly (398ms)
+	ReloadAssembly (3080ms)
+		BeginReloadAssembly (426ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (14ms)
+			DisableScriptedObjects (19ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (47ms)
-		EndReloadAssembly (2225ms)
-			LoadAssemblies (272ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (2425ms)
+			LoadAssemblies (313ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (743ms)
+			SetupTypeCache (828ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (102ms)
-			SetupLoadedEditorAssemblies (843ms)
+			RebuildScriptCaches (127ms)
+			SetupLoadedEditorAssemblies (860ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (14ms)
+				InitializePlatformSupportModulesInManaged (16ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (185ms)
-				ProcessInitializeOnLoadAttributes (607ms)
-				ProcessInitializeOnLoadMethodAttributes (14ms)
-				AfterProcessingInitializeOnLoad (19ms)
+				BeforeProcessingInitializeOnLoad (166ms)
+				ProcessInitializeOnLoadAttributes (637ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (22ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (20ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
-Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1515 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1516 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 70.4 MB.
-System memory in use after: 70.4 MB.
+System memory in use after: 70.5 MB.
 
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1948.
-Total: 6.792800 ms (FindLiveObjects: 0.291700 ms CreateObjectMapping: 0.079800 ms MarkObjects: 6.272700 ms  DeleteObjects: 0.146000 ms)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1949.
+Total: 6.704900 ms (FindLiveObjects: 0.360800 ms CreateObjectMapping: 0.101600 ms MarkObjects: 6.098600 ms  DeleteObjects: 0.141200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,521 +165,99 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/among-us/untitled.blend
-  artifactKey: Guid(c2d9298a04fbedf449ddcb497279c2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/untitled.blend using Guid(c2d9298a04fbedf449ddcb497279c2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6947c259b2f808176ea76079c318dd60') in 0.515515 seconds 
-  Import took 0.521899 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000384 seconds.
-  path: Assets/among-us
-  artifactKey: Guid(f778ba8e44ac0254fbf301c61c581d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us using Guid(f778ba8e44ac0254fbf301c61c581d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ab126eb2f22307d2f31253a5a4dddae') in 0.033299 seconds 
-  Import took 0.040753 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000443 seconds.
-  path: Assets/among-us/test.fbx
-  artifactKey: Guid(922d50e63acf45e4285aa2033e6132a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/test.fbx using Guid(922d50e63acf45e4285aa2033e6132a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cba3b0b84ac8baf90e9711b87d221b7') in 0.287700 seconds 
-  Import took 0.300594 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.668676 seconds.
-  path: Assets/among-us/crewmate-among-us
-  artifactKey: Guid(ec4e60c437205274499775fb24d17722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us using Guid(ec4e60c437205274499775fb24d17722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d40b1bf5311427df885a3b2b44fe3e4') in 0.022522 seconds 
-  Import took 0.029257 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.330638 seconds.
-  path: Assets/among-us/crewmate-among-us/Materials
-  artifactKey: Guid(1a9260dbc7049ce488334a0834258981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/Materials using Guid(1a9260dbc7049ce488334a0834258981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42173aa817b53de3a76dece7ad926ccc') in 0.019833 seconds 
-  Import took 0.026117 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.308707 seconds.
-  path: Assets/among-us/crewmate-among-us/Materials/Astronaut_Backpack.mat
-  artifactKey: Guid(31f7c7601a7cc144281c042bda234044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/Materials/Astronaut_Backpack.mat using Guid(31f7c7601a7cc144281c042bda234044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43d32ae234611bed86a14da713a7993') in 0.046399 seconds 
-  Import took 0.052963 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.869908 seconds.
-  path: Assets/among-us/crewmate-among-us/source
-  artifactKey: Guid(a44a9da10e25ba944a576986da3abd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source using Guid(a44a9da10e25ba944a576986da3abd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb1bff978b66a1fd1c3b98337fcff4d') in 0.019459 seconds 
-  Import took 0.025453 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.295082 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut
-  artifactKey: Guid(289fd734f0f65c0499bfd4e1567d24ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut using Guid(289fd734f0f65c0499bfd4e1567d24ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40adbf238258bda4720a924e2c564d27') in 0.018866 seconds 
-  Import took 0.024158 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016169 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut.png
-  artifactKey: Guid(cde10e0187528424fbbae8114b2549e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut.png using Guid(cde10e0187528424fbbae8114b2549e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3e741d85836c5a4bc37bbfd7bad771') in 0.066557 seconds 
-  Import took 0.073027 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000353 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Black.png
-  artifactKey: Guid(5ff35c5b54e848d40bcf77ef637292c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Black.png using Guid(5ff35c5b54e848d40bcf77ef637292c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c90805ea5ea10d0c8044f702c690d2e4') in 0.032900 seconds 
-  Import took 0.039430 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000389 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Blue.png
-  artifactKey: Guid(7eda0437d435ece418138491605f23f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Blue.png using Guid(7eda0437d435ece418138491605f23f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b096fc9cae7164fa4371ff3a3f1dae') in 0.029077 seconds 
-  Import took 0.035706 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000367 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Lime.png
-  artifactKey: Guid(0757206648273384d94b7d2e590e1590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Lime.png using Guid(0757206648273384d94b7d2e590e1590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e25d18b74323ba522a51cdb2c1fd34') in 0.033447 seconds 
-  Import took 0.040306 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000428 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Purple.png
-  artifactKey: Guid(4631d45d8f03e1242bb8a3b235818cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Purple.png using Guid(4631d45d8f03e1242bb8a3b235818cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9a0130a1ed766e73b2c1e7d998a135e') in 0.018648 seconds 
-  Import took 0.025036 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000445 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Lime.png
-  artifactKey: Guid(4bbfcaf2256cfd34cac009e17c105a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Lime.png using Guid(4bbfcaf2256cfd34cac009e17c105a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '154906667d2337e49e34f6f2deb399f8') in 0.030422 seconds 
-  Import took 0.036982 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000407 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_White.png
-  artifactKey: Guid(93c7bfaef697eef418aab0fb81247d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_White.png using Guid(93c7bfaef697eef418aab0fb81247d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eddd6fe5108ee3801b00f444d2f4897d') in 0.020275 seconds 
-  Import took 0.026638 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000396 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Green.png
-  artifactKey: Guid(185229196e01fa44488a3a438e4641cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Green.png using Guid(185229196e01fa44488a3a438e4641cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d41aea5e80fe7402c119f8e3c30d3c') in 0.030017 seconds 
-  Import took 0.036218 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000326 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Orange.png
-  artifactKey: Guid(eb0d3c9b85dde974eb6283be9900f601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Orange.png using Guid(eb0d3c9b85dde974eb6283be9900f601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c44af032d0505fca21a7c7926cf3743') in 0.018683 seconds 
-  Import took 0.023995 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000400 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Blue.png
-  artifactKey: Guid(4be4347ff18b28b4988cbd0d7a02a510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Blue.png using Guid(4be4347ff18b28b4988cbd0d7a02a510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ab66366fbf80c08e0337b17b5d5827') in 0.032400 seconds 
-  Import took 0.038816 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000335 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Brown.png
-  artifactKey: Guid(50261647f90320c4da46eefbd9e47ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Brown.png using Guid(50261647f90320c4da46eefbd9e47ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9cbc42ef5b43156c1df173a0ccba54') in 0.031021 seconds 
-  Import took 0.037226 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000454 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Orange.png
-  artifactKey: Guid(6aeda936ad086d148aa125e230b8c7b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Orange.png using Guid(6aeda936ad086d148aa125e230b8c7b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d5d661cd440dc2c69a42d568a2c9d1') in 0.032889 seconds 
-  Import took 0.038762 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000476 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Cyan.png
-  artifactKey: Guid(ebe5bfc52d1762841a329073206f6a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Cyan.png using Guid(ebe5bfc52d1762841a329073206f6a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '498e69eb85b7c09e9c01f601e114330a') in 0.030787 seconds 
-  Import took 0.037465 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000468 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Yellow.png
-  artifactKey: Guid(7bcd2efca64b2534cb2de009314e95da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Yellow.png using Guid(7bcd2efca64b2534cb2de009314e95da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '610eff6c345e5d4d957683b2ccd62eb8') in 0.030491 seconds 
-  Import took 0.037504 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000356 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack.png
-  artifactKey: Guid(31fa1326c01b92d48b5c87555ef2aa85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack.png using Guid(31fa1326c01b92d48b5c87555ef2aa85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28110a0f5d6bb4c3a82b87ff8721c794') in 0.024428 seconds 
-  Import took 0.031943 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000525 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Cyan.png
-  artifactKey: Guid(92ab08095068b5a4f8327fe8abd1306b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Cyan.png using Guid(92ab08095068b5a4f8327fe8abd1306b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec4113bccb685f5492aa13c195d755c') in 0.025933 seconds 
-  Import took 0.033209 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000344 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Green.png
-  artifactKey: Guid(f06e476876bdb414fb4d339fc9144dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Green.png using Guid(f06e476876bdb414fb4d339fc9144dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db5b313e48419d0c9c673a5c7ba1a01c') in 0.025432 seconds 
-  Import took 0.031502 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000456 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Black.png
-  artifactKey: Guid(3993bf2be4bf43447b76d4b92a51c975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Black.png using Guid(3993bf2be4bf43447b76d4b92a51c975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa5d3a52b56441284d80955fa9f69d2f') in 0.029858 seconds 
-  Import took 0.036785 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000535 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_White.png
-  artifactKey: Guid(8677b1f18023e3d489dff0055eff6f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_White.png using Guid(8677b1f18023e3d489dff0055eff6f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ec433ea8990588bfaaa71ebff95507') in 0.032178 seconds 
-  Import took 0.038810 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000591 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Pink.png
-  artifactKey: Guid(4d1255fad418f2f439cf8c61fbb1b749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Pink.png using Guid(4d1255fad418f2f439cf8c61fbb1b749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83c14a03a2539f92529267829949a1f1') in 0.031822 seconds 
-  Import took 0.038105 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000410 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Purple.png
-  artifactKey: Guid(db10e8703e754974483924d90f5994f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Purple.png using Guid(db10e8703e754974483924d90f5994f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83bf874f7c8a36331bb5a6a58f03f922') in 0.031743 seconds 
-  Import took 0.039588 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000683 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Yellow.png
-  artifactKey: Guid(24e95f3fc23999a49836f7c97b6a3441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Yellow.png using Guid(24e95f3fc23999a49836f7c97b6a3441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41c77751c3b57956f6f0d87061082322') in 0.029025 seconds 
-  Import took 0.037003 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000414 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Brown.png
-  artifactKey: Guid(79dc1939b6ba4ec42816a5f60caa0f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Backpack_Brown.png using Guid(79dc1939b6ba4ec42816a5f60caa0f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237ef58c9786b86238244a68c83aaf00') in 0.034430 seconds 
-  Import took 0.042792 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000413 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Pink.png
-  artifactKey: Guid(b2fab3dcfbc21174ab28d1b5378e5a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Astronaut_Pink.png using Guid(b2fab3dcfbc21174ab28d1b5378e5a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e203e79dc32c6900d105412af03a38a') in 0.033982 seconds 
-  Import took 0.041195 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000421 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/astronaut_group.fbx
-  artifactKey: Guid(56d891329be988942ac2a74ca6713030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/astronaut_group.fbx using Guid(56d891329be988942ac2a74ca6713030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '809a36a9c8375b369cd208968679e133') in 0.733771 seconds 
-  Import took 0.747265 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.238109 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Original
-  artifactKey: Guid(9d91fa2608235324ab3099a56a9d5c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Original using Guid(9d91fa2608235324ab3099a56a9d5c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f972d045f20291a8dde644ba14fcd3') in 0.019386 seconds 
-  Import took 0.027069 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.059163 seconds.
-  path: Assets/among-us/crewmate-among-us/source/astronaut/Original/astronaut.blend
-  artifactKey: Guid(bbd1feaf896668a41a2e1c87d774b371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/source/astronaut/Original/astronaut.blend using Guid(bbd1feaf896668a41a2e1c87d774b371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de502fb5a3175e103607d9d5a400f8f1') in 0.078536 seconds 
-  Import took 0.085002 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.689064 seconds.
-  path: Assets/among-us/crewmate-among-us/textures
-  artifactKey: Guid(2c9fb1d93319e914fadaccce8274bc9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures using Guid(2c9fb1d93319e914fadaccce8274bc9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05df34eeb868ade41601f3f5dc72f601') in 0.019875 seconds 
-  Import took 0.026316 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.048843 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut.png
-  artifactKey: Guid(67af6aea41803b945852dbac539d3ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut.png using Guid(67af6aea41803b945852dbac539d3ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88d1c875b6b2f485d0ad540ff90db33e') in 0.026901 seconds 
-  Import took 0.032754 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000396 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_White.png
-  artifactKey: Guid(1062bdf4e63d42c4ba300583bacf3e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_White.png using Guid(1062bdf4e63d42c4ba300583bacf3e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b3bb3547b6cbd86a5351be8b89630b') in 0.027038 seconds 
-  Import took 0.033780 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000538 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Blue.png
-  artifactKey: Guid(d42ea948294960b40aa0b8a0f195068f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Blue.png using Guid(d42ea948294960b40aa0b8a0f195068f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f91644c40ef5ddfb6d94831871e9850') in 0.016276 seconds 
-  Import took 0.022446 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000446 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Green.png
-  artifactKey: Guid(abc3d1660ce1a854089c5764080e943e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Green.png using Guid(abc3d1660ce1a854089c5764080e943e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0e238c773d71fa13d1aef36afea3c3') in 0.019620 seconds 
-  Import took 0.027464 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000434 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Purple.png
-  artifactKey: Guid(f521edbdde1a09f4cb547e5dcae75200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Purple.png using Guid(f521edbdde1a09f4cb547e5dcae75200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d69dd21507051585366867ac82825c') in 0.018541 seconds 
-  Import took 0.032070 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000409 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Cyan.png
-  artifactKey: Guid(bb1682262b09f4d4eac7f151013f1aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Cyan.png using Guid(bb1682262b09f4d4eac7f151013f1aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa3b8b5fc9ad75823898d996dd93c5f') in 0.017254 seconds 
-  Import took 0.023841 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000371 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Pink.png
-  artifactKey: Guid(f4b5f500310063c4bab5a985f2f832a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Pink.png using Guid(f4b5f500310063c4bab5a985f2f832a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5c029a2f6c293deaf21ee43b87be589') in 0.019199 seconds 
-  Import took 0.026759 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000576 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Orange.png
-  artifactKey: Guid(b34bbf882f8d2264c82f438195e4817b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Orange.png using Guid(b34bbf882f8d2264c82f438195e4817b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d647a143ff414deaab0028e6fcb9503') in 0.015896 seconds 
-  Import took 0.022438 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000385 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Purple.png
-  artifactKey: Guid(4be9f66c89884b64093e0bf5ce2ccb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Purple.png using Guid(4be9f66c89884b64093e0bf5ce2ccb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c9db0f2f2a90f510da35161ed036dc') in 0.018496 seconds 
-  Import took 0.025103 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000373 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Yellow.png
-  artifactKey: Guid(bf4f2c206ff3e3542923fe505583d03b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Yellow.png using Guid(bf4f2c206ff3e3542923fe505583d03b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f39fc5384ee7f4e8dcb620b032f865e') in 0.018642 seconds 
-  Import took 0.026698 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000516 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack.png
-  artifactKey: Guid(651802d8f88d10c4fb0966750f374c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack.png using Guid(651802d8f88d10c4fb0966750f374c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3a4aceca429e1beb4ae1e2a14046ebc') in 0.017060 seconds 
-  Import took 0.023859 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000523 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Black.png
-  artifactKey: Guid(f5dc3d793d392a94c8ac5c6221e09c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Black.png using Guid(f5dc3d793d392a94c8ac5c6221e09c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '555be2377fa922e2f2387e61a70bf375') in 0.023291 seconds 
-  Import took 0.033978 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000478 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Black.png
-  artifactKey: Guid(29dc219902c21824895394ae02069eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Black.png using Guid(29dc219902c21824895394ae02069eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a1b895482e494dc24c0940044028c26') in 0.020783 seconds 
-  Import took 0.029794 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000399 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Pink.png
-  artifactKey: Guid(5f4d1d3685d12244a86a022eff4a8d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Pink.png using Guid(5f4d1d3685d12244a86a022eff4a8d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b38f7c829fa23fa02ed17fb2b3bf45') in 0.017350 seconds 
-  Import took 0.025077 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000580 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Orange.png
-  artifactKey: Guid(4fe76b69370337d429ea9bdfb685ab2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Orange.png using Guid(4fe76b69370337d429ea9bdfb685ab2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c207591928e1ee70abe2eb0e2de3163') in 0.016757 seconds 
-  Import took 0.022746 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000358 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Lime.png
-  artifactKey: Guid(49f10190d8ea12d4cb1c8dcb70de4365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Lime.png using Guid(49f10190d8ea12d4cb1c8dcb70de4365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c37d44ca786e734771748ce148ac146') in 0.016676 seconds 
-  Import took 0.022402 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000405 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_White.png
-  artifactKey: Guid(6d3c3cc0713bdab4bb72d68f2a1348bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_White.png using Guid(6d3c3cc0713bdab4bb72d68f2a1348bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e41a1c171ea1527617055c92a7cef510') in 0.027548 seconds 
-  Import took 0.034495 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000443 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Green.png
-  artifactKey: Guid(b1ebaf2240890104aabde17b54c1dd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Green.png using Guid(b1ebaf2240890104aabde17b54c1dd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f4b04e91bb71049fd4ef5cde08c7ca') in 0.015697 seconds 
-  Import took 0.023272 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000544 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Brown.png
-  artifactKey: Guid(188df8eb12081be4e8d21e75ac064d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Brown.png using Guid(188df8eb12081be4e8d21e75ac064d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa636d0c0bf1b4c96843b1b30d921a7f') in 0.019732 seconds 
-  Import took 0.025479 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000327 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Lime.png
-  artifactKey: Guid(585ccdcb1f9d92443bebda0a531edafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Backpack_Lime.png using Guid(585ccdcb1f9d92443bebda0a531edafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd345c9312130f744ba5316a19eb29377') in 0.017152 seconds 
-  Import took 0.023179 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000702 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Cyan.png
-  artifactKey: Guid(70a30515da3c1d34bb62d458104639a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Cyan.png using Guid(70a30515da3c1d34bb62d458104639a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef397ec9cac2511cd4de6eb53a4c9fdf') in 0.016933 seconds 
-  Import took 0.022901 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000385 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Yellow.png
-  artifactKey: Guid(155a7e13260b98244940d9432a6fdd03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Yellow.png using Guid(155a7e13260b98244940d9432a6fdd03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bf5c995362f0fed4679cd2026deaf61') in 0.017255 seconds 
-  Import took 0.023385 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000352 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Brown.png
-  artifactKey: Guid(51c3fb7511a747247a49a84f9540ce4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Brown.png using Guid(51c3fb7511a747247a49a84f9540ce4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693aa443457241224aeeac7e5d7b17c4') in 0.017917 seconds 
-  Import took 0.023674 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000336 seconds.
-  path: Assets/among-us/crewmate-among-us/textures/Astronaut_Blue.png
-  artifactKey: Guid(ce2dfaa10b161c94fa17ecd201225f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/textures/Astronaut_Blue.png using Guid(ce2dfaa10b161c94fa17ecd201225f5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf5a0110e826bdb26a53f63a4897b9a') in 0.026200 seconds 
-  Import took 0.033392 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.144141 seconds.
-  path: Assets/among-us/crewmate-among-us/Materials/New Material.mat
-  artifactKey: Guid(ca7cb9eeff04aae40ac8151daa1227ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/Materials/New Material.mat using Guid(ca7cb9eeff04aae40ac8151daa1227ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d2d7dcc4da2cc5cafcebec181b20f8') in 0.034265 seconds 
-  Import took 0.040165 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.043407 seconds.
-  path: Assets/Map/Materials/780-7809494_moon-texture-from-http-space-cube-texture.png
-  artifactKey: Guid(531319c8d2069a34cb6f3006284aa932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Map/Materials/780-7809494_moon-texture-from-http-space-cube-texture.png using Guid(531319c8d2069a34cb6f3006284aa932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca5ab83fbcc6bf6f24f79e76c12e93f') in 0.058492 seconds 
-  Import took 0.065699 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.781721 seconds.
-  path: Assets/among-us/crewmate-among-us/Materials/New Material 1.mat
-  artifactKey: Guid(09c61cdac7b19ea44976282f4d9a6ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/Materials/New Material 1.mat using Guid(09c61cdac7b19ea44976282f4d9a6ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5360f8b5e522bd611e377f456b3528d') in 0.039417 seconds 
-  Import took 0.046624 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 39.002496 seconds.
-  path: Assets/among-us/crewmate-among-us/Materials/Outline.mat
-  artifactKey: Guid(09c61cdac7b19ea44976282f4d9a6ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/Materials/Outline.mat using Guid(09c61cdac7b19ea44976282f4d9a6ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bb22f39333cf9067ca3cf9861e2a63') in 0.053365 seconds 
-  Import took 0.061655 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.650797 seconds.
-  path: Assets/among-us/crewmate-among-us/Materials/Astronaut_Red.mat
-  artifactKey: Guid(ca7cb9eeff04aae40ac8151daa1227ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/among-us/crewmate-among-us/Materials/Astronaut_Red.mat using Guid(ca7cb9eeff04aae40ac8151daa1227ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15bd716b6993b01e6727f7a8d7cf517a') in 0.066408 seconds 
-  Import took 0.072491 seconds .
-
+  path: Assets/Player.prefab
+  artifactKey: Guid(3b9d4bc4740fcce4fa50b56b1545bee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player.prefab using Guid(3b9d4bc4740fcce4fa50b56b1545bee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9953018ff48b47b35dd97dbd088be823') in 0.321649 seconds 
+  Import took 0.327230 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017304 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000001D3FCE0D040 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Multiplayer.MLAPI.Prototyping.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FB10E510 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FE508030 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FB14E250 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FD268230 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FCF85020 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FD68B020 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D241AB0A70 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FD268230 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D2400C6030 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FD153220 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Multiplayer.MLAPI.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FB14E250 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FEA75020 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FCECFA30 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FE9F8010 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Multiplayer.MLAPI.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FCAF8020 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001D3FB10E510 doesn't match image C:\GameDev\Github Spel\AmongUs3D\Among3D\Library\ScriptAssemblies\Unity.Multiplayer.MLAPI.Editor.CodeGen.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.302 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3303ms)
+		BeginReloadAssembly (275ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (69ms)
+		EndReloadAssembly (2805ms)
+			LoadAssemblies (239ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (786ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (170ms)
+			SetupLoadedEditorAssemblies (1211ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (321ms)
+				ProcessInitializeOnLoadAttributes (839ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (20ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1510 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.4 MB.
+System memory in use after: 73.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1960.
+Total: 7.263800 ms (FindLiveObjects: 0.284800 ms CreateObjectMapping: 0.075000 ms MarkObjects: 6.841400 ms  DeleteObjects: 0.059600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
