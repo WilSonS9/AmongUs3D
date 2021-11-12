@@ -7,7 +7,7 @@ using UnityEngine.UI;
 
 public class MenuScript : MonoBehaviour
 {
-    public  GameObject menuPanel;
+    public GameObject menuPanel;
     public InputField inputField;
 
     public void Host()
