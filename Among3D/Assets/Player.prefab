@@ -324,6 +324,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cameraTransform: {fileID: 7930160385272762731}
+  textDisplay: {fileID: 0}
 --- !u!1001 &8737657199549295264
 PrefabInstance:
   m_ObjectHideFlags: 0
