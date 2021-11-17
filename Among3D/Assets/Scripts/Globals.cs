@@ -4,6 +4,15 @@ using UnityEngine;
 
 public class Globals : MonoBehaviour
 {
-    public static string latestName;
-    public static List<string> playas = new List<string>();
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
 }

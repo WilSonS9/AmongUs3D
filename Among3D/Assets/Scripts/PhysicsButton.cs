@@ -33,8 +33,9 @@ public class PhysicsButton : MonoBehaviour
                 Physics.IgnoreCollision(localCollider, singleCollider);
             }
         }
-        
-        if (transform.eulerAngles != Vector3.zero){
+
+        if (transform.eulerAngles != Vector3.zero)
+        {
             Vector3 savedAngle = transform.eulerAngles;
             transform.eulerAngles = Vector3.zero;
             upperLowerDiff = buttonUpperLimit.position.y - buttonLowerLimit.position.y;
@@ -63,9 +64,9 @@ public class PhysicsButton : MonoBehaviour
         else
             isPressed = false;
 
-        if(isPressed && prevPressedState != isPressed)
+        if (isPressed && prevPressedState != isPressed)
             Pressed();
-        if(!isPressed && prevPressedState != isPressed)
+        if (!isPressed && prevPressedState != isPressed)
             Released();
     }
 
@@ -77,14 +78,16 @@ public class PhysicsButton : MonoBehaviour
     //     rb.velocity = transform.TransformDirection(localVelocity);
     // }
 
-    void Pressed(){
+    void Pressed()
+    {
         prevPressedState = isPressed;
         pressedSound.pitch = 1;
         pressedSound.Play();
         onPressed.Invoke();
     }
 
-    void Released(){
+    void Released()
+    {
         prevPressedState = isPressed;
         releasedSound.pitch = Random.Range(1.1f, 1.2f);
         releasedSound.Play();

@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using MLAPI;
-using TMPro;
 
 public class PlayerMovement : NetworkBehaviour
 {
@@ -10,14 +9,12 @@ public class PlayerMovement : NetworkBehaviour
     CharacterController cc;
 
     public Transform cameraTransform;
-    public TextMeshProUGUI textDisplay;
     float pitch = 0f;
 
     // Start is called before the first frame update
     void Start()
     {
-        name = Globals.latestName;
-        Globals.playas.Add(name);
+        name = "red";
         if (!IsLocalPlayer)
         {
             cameraTransform.GetComponent<AudioListener>().enabled = false;
